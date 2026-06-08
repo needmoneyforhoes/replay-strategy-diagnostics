@@ -8,7 +8,7 @@ would be met (from later fires in recap), check if it would pass gates
 at that later time, and compute PnL at the later entry price.
 
 Usage:
-    cd /home/polybot/polymarket-bot
+    cd .
     python3 test_refire_dedup.py
 """
 
