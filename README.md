@@ -42,3 +42,8 @@ Inputs are not committed (see `.gitignore`). Provide them from the private `poly
 - `test_strategy_recent.py`, `test_refire_dedup.py`: `market_recap_history.jsonl`, `market_history.jsonl`, `flip_shadow_log.jsonl`, `parameter_history.jsonl`. Run from the directory holding them.
 - `diagnose.py`: `moves.log`, `mechanisms.log` in the working dir.
 - `diagnose_replay_quality.py`: `replay_*.json` files (directory is the first arg, default `.`).
+
+## Feedback
+
+Suggestions, improvements, or something not working? Please
+[open an issue](https://github.com/needmoneyforhoes/replay-strategy-diagnostics/issues/new). Pull requests are welcome too.
